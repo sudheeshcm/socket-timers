@@ -1,0 +1,14 @@
+{
+  "name": "socket-notifications",
+  "version": "1.0.0",
+  "description": "Demo app to try out notifications using socket.io for a react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sudheesh C M <sudheeshcmohan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.0"
+  }
+}
